@@ -11,7 +11,6 @@ namespace PdfForPath
 {
     class GetPatientInfo:HslLogs
     {
-        //zhushi 1
         public static string getPdfInfo(string filename)
         {
             try
