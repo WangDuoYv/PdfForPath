@@ -46,13 +46,13 @@
       <HintPath>..\packages\FluentFTP.37.0.4\lib\net40\FluentFTP.dll</HintPath>
     </Reference>
     <Reference Include="HslCommunication, Version=11.0.2.0, Culture=neutral, PublicKeyToken=3d72ad3b6b5ec0e3, processorArchitecture=MSIL">
-      <HintPath>..\packages\HslCommunication.11.0.2\lib\net35\HslCommunication.dll</HintPath>
+      <HintPath>..\..\..\..\..\安贞\PdfForPath4.0\PdfForPath\bin\Debug\HslCommunication.dll</HintPath>
     </Reference>
     <Reference Include="Newtonsoft.Json, Version=12.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
       <HintPath>..\packages\Newtonsoft.Json.12.0.3\lib\net40\Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="Spire.Pdf, Version=8.4.15.0, Culture=neutral, PublicKeyToken=663f351905198cb3, processorArchitecture=MSIL">
-      <HintPath>..\packages\Spire.PDF.8.4.15\lib\net40\Spire.Pdf.dll</HintPath>
+      <HintPath>..\..\..\..\..\安贞\PdfForPath4.0\PdfForPath\bin\Debug\Spire.Pdf.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Configuration" />
